@@ -1,0 +1,4 @@
+eureka:
+  datacenter: Non-Cloud
+  environment: Default
+
